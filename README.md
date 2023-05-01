@@ -1,5 +1,5 @@
-# SSL
-Repositorio para los TPs de la materia Sintaxis y Semántica de los Lenguajes
+# Sintaxis Y Semántica de los Lenguajes 2023
+Repositorio para los TPs de la materia
 ## Datos del Alumno
 **Nombre y Apellido:** Macía, Martín Daniel
 
